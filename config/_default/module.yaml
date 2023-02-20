@@ -1,0 +1,17 @@
+imports:
+- path: github.com/hugolify/architectify-netlify-cms
+- path: github.com/hugolify/architectify-theme
+- path: github.com/hugolify/architectify-example-site
+- path: github.com/hugolify/hugolify-netlify-cms
+- path: github.com/hugolify/hugolify-theme-offices
+- path: github.com/hugolify/hugolify-theme-posts-authors
+- path: github.com/hugolify/hugolify-theme-posts-categories
+- path: github.com/hugolify/hugolify-theme-posts-tags
+- path: github.com/hugolify/hugolify-theme-posts
+- path: github.com/hugolify/hugolify-theme-projects-tags
+- path: github.com/hugolify/hugolify-theme-projects-types
+- path: github.com/hugolify/hugolify-theme-projects
+- path: github.com/hugolify/hugolify-theme-publications-concerned
+- path: github.com/hugolify/hugolify-theme-publications
+- path: github.com/hugolify/hugolify-theme-persons
+- path: github.com/hugolify/hugolify-theme
