@@ -4,6 +4,8 @@ github.com/hugolify/architectify-example-site v0.0.0-20230220142927-cdad7b843358
 github.com/hugolify/architectify-example-site v0.0.0-20230220142927-cdad7b843358/go.mod h1:u4KcZm3c+Y/iHwqwGvzBdcskDY/3hTM6e3TaYaQ+xFo=
 github.com/hugolify/architectify-example-site v1.0.0 h1:xueKUEMVYPWv7u+vhQccuNieCcERg0I/M+dgrUmEX30=
 github.com/hugolify/architectify-example-site v1.0.0/go.mod h1:u4KcZm3c+Y/iHwqwGvzBdcskDY/3hTM6e3TaYaQ+xFo=
+github.com/hugolify/architectify-example-site v1.0.1 h1:PmcsO0aDtH3RLewF+S/v5XMKD4mBE0QCaTpkJFeNGfY=
+github.com/hugolify/architectify-example-site v1.0.1/go.mod h1:u4KcZm3c+Y/iHwqwGvzBdcskDY/3hTM6e3TaYaQ+xFo=
 github.com/hugolify/architectify-netlify-cms v0.0.0-20230220135742-414f90d06f74 h1:EkUn2iTWfPl2bVntWtESSDzbthHAMzC9OeXN7bN7wLc=
 github.com/hugolify/architectify-netlify-cms v0.0.0-20230220135742-414f90d06f74/go.mod h1:A3eg+p8BHqyThwE0zEywjfGI/HdGqndOy69cTcb+U8A=
 github.com/hugolify/architectify-netlify-cms v1.0.0 h1:ZRsknSIiPDuTzvVnoCUN9LMJSElns68XkgOsEKSquVc=
