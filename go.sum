@@ -6,6 +6,8 @@ github.com/hugolify/architectify-example-site v1.0.0 h1:xueKUEMVYPWv7u+vhQccuNie
 github.com/hugolify/architectify-example-site v1.0.0/go.mod h1:u4KcZm3c+Y/iHwqwGvzBdcskDY/3hTM6e3TaYaQ+xFo=
 github.com/hugolify/architectify-example-site v1.0.1 h1:PmcsO0aDtH3RLewF+S/v5XMKD4mBE0QCaTpkJFeNGfY=
 github.com/hugolify/architectify-example-site v1.0.1/go.mod h1:u4KcZm3c+Y/iHwqwGvzBdcskDY/3hTM6e3TaYaQ+xFo=
+github.com/hugolify/architectify-example-site v1.0.2 h1:c6mwelmPIG3V7NNZyYra+Ktt7l6FNYvXBvoJrep1+dw=
+github.com/hugolify/architectify-example-site v1.0.2/go.mod h1:u4KcZm3c+Y/iHwqwGvzBdcskDY/3hTM6e3TaYaQ+xFo=
 github.com/hugolify/architectify-netlify-cms v0.0.0-20230220135742-414f90d06f74 h1:EkUn2iTWfPl2bVntWtESSDzbthHAMzC9OeXN7bN7wLc=
 github.com/hugolify/architectify-netlify-cms v0.0.0-20230220135742-414f90d06f74/go.mod h1:A3eg+p8BHqyThwE0zEywjfGI/HdGqndOy69cTcb+U8A=
 github.com/hugolify/architectify-netlify-cms v1.0.0 h1:ZRsknSIiPDuTzvVnoCUN9LMJSElns68XkgOsEKSquVc=
@@ -14,6 +16,8 @@ github.com/hugolify/architectify-netlify-cms v1.0.1 h1:cmsYNLh1vJmUFokT/5VoRLX/N
 github.com/hugolify/architectify-netlify-cms v1.0.1/go.mod h1:A3eg+p8BHqyThwE0zEywjfGI/HdGqndOy69cTcb+U8A=
 github.com/hugolify/architectify-theme v1.0.0 h1:yB86guqwypgQf2IBgvrNCvsQJawXsQZN3/jOxGj1hrs=
 github.com/hugolify/architectify-theme v1.0.0/go.mod h1:yeu8+2/HrmM2ORv3M5PLpBQzcItjy9C5eUHsL/F82qA=
+github.com/hugolify/architectify-theme v1.0.1 h1:tRC2PAZAVwYY8GMR8biX8+oyYm2kZ0xxCDqtGJBDPrk=
+github.com/hugolify/architectify-theme v1.0.1/go.mod h1:yeu8+2/HrmM2ORv3M5PLpBQzcItjy9C5eUHsL/F82qA=
 github.com/hugolify/hugolify-example-site v1.0.2 h1:2F/xxMIyKZpJZpdlrZEqPOKpa3pkdSZ+NAhwmqHuu+A=
 github.com/hugolify/hugolify-example-site v1.0.2/go.mod h1:tvFPv5uMeKzKQQEQmxo2RiceNGSqM3mkMZNxwfhtK9o=
 github.com/hugolify/hugolify-netlify-cms v1.1.4 h1:02OiE0/4CLssioMlIYgDnZ1XQf0PoR/mp5PlVAkbSnM=
@@ -28,6 +32,8 @@ github.com/hugolify/hugolify-theme v1.3.0 h1:AcJdfQtw/sbH8xXmzZZsxmKp94f7Xl18dze
 github.com/hugolify/hugolify-theme v1.3.0/go.mod h1:Ql6rtAl9AiN81qR+9X+h+yKG8Gmw9qFjlCKm1qarplA=
 github.com/hugolify/hugolify-theme v1.3.1 h1:NCicpO0WjUHffmbvwCzvT3tIqJcqN78YfXR1ijwbgUo=
 github.com/hugolify/hugolify-theme v1.3.1/go.mod h1:Ql6rtAl9AiN81qR+9X+h+yKG8Gmw9qFjlCKm1qarplA=
+github.com/hugolify/hugolify-theme v1.3.2 h1:So8ht5kj9c8tyP6E9JWHS0g7y94OS4THUJG5ZaK7XDo=
+github.com/hugolify/hugolify-theme v1.3.2/go.mod h1:Ql6rtAl9AiN81qR+9X+h+yKG8Gmw9qFjlCKm1qarplA=
 github.com/hugolify/hugolify-theme-offices v1.0.1 h1:KrZZrcDSPpCkcB0K6Fv/AjXJflGLgcgPyxXgHUpxzFs=
 github.com/hugolify/hugolify-theme-offices v1.0.1/go.mod h1:jl36gpgiF50GARJgKkLa71wg7gfpI+PmfYHpufVWWLc=
 github.com/hugolify/hugolify-theme-offices v1.0.3 h1:JBFWBeJbtqTeQ+0jVJC/r0jUajJjdEiG8TIPCh48QC8=
