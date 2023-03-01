@@ -1,8 +1,8 @@
 imports:
-- path: github.com/hugolify/architectify-netlify-cms
-- path: github.com/hugolify/architectify-theme
+- path: github.com/hugolify/architectify-demo-1
 - path: github.com/hugolify/architectify-example-site
-- path: github.com/hugolify/hugolify-netlify-cms
+- path: github.com/hugolify/architectify-theme
+- path: github.com/hugolify/architectify-netlify-cms
 - path: github.com/hugolify/hugolify-theme-offices
 - path: github.com/hugolify/hugolify-theme-posts-authors
 - path: github.com/hugolify/hugolify-theme-posts-categories
@@ -15,3 +15,5 @@ imports:
 - path: github.com/hugolify/hugolify-theme-publications
 - path: github.com/hugolify/hugolify-theme-persons
 - path: github.com/hugolify/hugolify-theme
+- path: github.com/hugolify/hugolify-netlify-cms
+
