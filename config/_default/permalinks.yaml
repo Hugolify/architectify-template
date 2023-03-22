@@ -1,1 +1,6 @@
 _merge: deep
+offices: /cabinets/:slug/
+persons: /equipe/:slug/
+posts: /actualites/:year-:month-:day-:slug/
+projects: /projets/:year-:slug/
+publications: /parutions/:slug/
