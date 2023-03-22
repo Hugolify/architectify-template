@@ -11,7 +11,7 @@ require (
 	github.com/hugolify/hugolify-netlify-cms v1.1.11 // indirect
 	github.com/hugolify/hugolify-theme v1.3.24 // indirect
 	github.com/hugolify/hugolify-theme-offices v1.0.9 // indirect
-	github.com/hugolify/hugolify-theme-persons v1.0.10 // indirect
+	github.com/hugolify/hugolify-theme-persons v1.0.11 // indirect
 	github.com/hugolify/hugolify-theme-posts v1.1.6 // indirect
 	github.com/hugolify/hugolify-theme-posts-authors v1.0.5 // indirect
 	github.com/hugolify/hugolify-theme-posts-categories v1.0.5 // indirect
