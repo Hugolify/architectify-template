@@ -9,7 +9,7 @@ require (
 	github.com/hugolify/architectify-netlify-cms v1.0.1 // indirect
 	github.com/hugolify/architectify-theme v1.0.3 // indirect
 	github.com/hugolify/hugolify-netlify-cms v1.1.11 // indirect
-	github.com/hugolify/hugolify-theme v1.3.24 // indirect
+	github.com/hugolify/hugolify-theme v1.3.25 // indirect
 	github.com/hugolify/hugolify-theme-offices v1.0.9 // indirect
 	github.com/hugolify/hugolify-theme-persons v1.0.11 // indirect
 	github.com/hugolify/hugolify-theme-posts v1.1.6 // indirect
