@@ -46,6 +46,8 @@ github.com/hugolify/hugolify-theme v1.3.24 h1:Tbp/frRJnn57Zv7bF2zmC5LqRp4TNnQFDs
 github.com/hugolify/hugolify-theme v1.3.24/go.mod h1:Ql6rtAl9AiN81qR+9X+h+yKG8Gmw9qFjlCKm1qarplA=
 github.com/hugolify/hugolify-theme v1.3.25 h1:rWIcXrVKZaae2tbPpzqZ4iM2hRuan/D+9TROIi6+OO0=
 github.com/hugolify/hugolify-theme v1.3.25/go.mod h1:Ql6rtAl9AiN81qR+9X+h+yKG8Gmw9qFjlCKm1qarplA=
+github.com/hugolify/hugolify-theme v1.3.26 h1:HONuin8MbHqr8rt05d9w0gHJcq5j2l4JuQe8rQJ0aWE=
+github.com/hugolify/hugolify-theme v1.3.26/go.mod h1:Ql6rtAl9AiN81qR+9X+h+yKG8Gmw9qFjlCKm1qarplA=
 github.com/hugolify/hugolify-theme-offices v1.0.5 h1:dG+pCdX/bMCxEHbaKECJ8IEFobB/sauYCKb8un/I1x8=
 github.com/hugolify/hugolify-theme-offices v1.0.5/go.mod h1:jl36gpgiF50GARJgKkLa71wg7gfpI+PmfYHpufVWWLc=
 github.com/hugolify/hugolify-theme-offices v1.0.6 h1:uLuAT/CCMuPHBTvce6dKXbgsnaQCixbmfXCV2ql5a6U=
