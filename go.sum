@@ -86,6 +86,8 @@ github.com/hugolify/hugolify-theme-persons v1.0.13 h1:f6MXsjqOwf6Hx1PemRYogIjJ3J
 github.com/hugolify/hugolify-theme-persons v1.0.13/go.mod h1:LjjY/5pEDk2r3URTU8xS7Sango4D4K9ExU0+OaJwOUA=
 github.com/hugolify/hugolify-theme-persons v1.0.14 h1:G/oZOR4ku2DTwDUjpo6n0vQNwr2HRW0dOx375Qf2QAI=
 github.com/hugolify/hugolify-theme-persons v1.0.14/go.mod h1:LjjY/5pEDk2r3URTU8xS7Sango4D4K9ExU0+OaJwOUA=
+github.com/hugolify/hugolify-theme-persons v1.0.15 h1:24GoyRMWmnaIcmqbahmlt+ZR/OFc7RTh+gh0u3DG+6M=
+github.com/hugolify/hugolify-theme-persons v1.0.15/go.mod h1:LjjY/5pEDk2r3URTU8xS7Sango4D4K9ExU0+OaJwOUA=
 github.com/hugolify/hugolify-theme-posts v1.1.3 h1:z7k0DKRTm86FLKCOnQ22756qHm7zaqEw5HIDLXBG0B4=
 github.com/hugolify/hugolify-theme-posts v1.1.3/go.mod h1:kSsNH0SQ9TaUdpJ2AsOYfAQt4qiIv0ORGjC4l+XCoqc=
 github.com/hugolify/hugolify-theme-posts v1.1.4 h1:19X2CFOltd9YtYnrWFu8pXayYtluy2D7GclYn/4+d2g=
