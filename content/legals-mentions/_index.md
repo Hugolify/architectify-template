@@ -2,6 +2,7 @@
 isPage: true
 draft: false
 title: Mentions légales
+url: mentions-legales
 ---
 ## Fusce id imperdiet nunc
 

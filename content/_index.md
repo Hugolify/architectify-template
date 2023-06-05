@@ -3,23 +3,14 @@ isIndex: true
 title: Accueil
 hero:
   surtitle: Praesent tempor
-  title: Aenean tristique metus vitae
-  text: Sed eros nisl, tempus eget tempor quis, laoreet ac odio. Aenean tristique metus vitae mollis imperdiet. Nam sodales ut arcu at ullamcorper. Suspendisse sed dui sollicitudin, aliquet diam in, aliquam arcu. Vestibulum consequat sit amet est eleifend laoreet. Praesent tempor arcu ex, et elementum neque dictum venenatis. 
-  cta:
-    url: "#main"
-    text: Découvrir
-    blank: false
-  cta_second:
-    url: https://www.architectify.io/
-    text: Architectify
-    blank: true
+  title: Aenean tristique metus vitaer projects
 blocks:
   - type: latest
     count: 6
     show_more: false
     background: false
     section: projects
-    title: Derniers projets
+    title: Latest projects
   - type: figure
     background: false
     grid: large
@@ -31,7 +22,6 @@ blocks:
     background: false
     surtitle: Suspendisse sed dui sollicitudin
     title: Sed eros nisl, tempus eget tempor quis, laoreet ac odio. Aenean tristique metus vitae mollis imperdiet.
-    text:  Nam sodales ut arcu at ullamcorper. Suspendisse sed dui sollicitudin, aliquet diam in, aliquam arcu. Vestibulum consequat sit amet est eleifend laoreet. Praesent tempor arcu ex, et elementum neque dictum venenatis. 
     image:
       src: /images/uploads/trym-robberstad-y9Kb_tQllbk-unsplash.jpg
     cta:
@@ -42,7 +32,6 @@ blocks:
     background: false
     surtitle: Vestibulum consequat sit amet
     title: Sed eros nisl, tempus eget tempor quis, laoreet ac odio. Aenean tristique metus vitae mollis imperdiet.
-    text:  Nam sodales ut arcu at ullamcorper. Suspendisse sed dui sollicitudin, aliquet diam in, aliquam arcu. Vestibulum consequat sit amet est eleifend laoreet. Praesent tempor arcu ex, et elementum neque dictum venenatis. 
     image:
       src: /images/uploads/pedro-miranda-3QzMBrvCeyQ-unsplash.jpg
     cta:

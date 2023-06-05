@@ -2,5 +2,11 @@ _merge: deep
 offices: /cabinets/:slug/
 persons: /equipe/:slug/
 posts: /actualites/:year-:month-:day-:slug/
+authors: /actualites/authors/:slug/
+categories: /actualites/categories/:slug/
+tags: /actualites/tags/:slug/
 projects: /projets/:year-:slug/
+projects_types: /projets/types/:slug/
+projects_tags: /projets/tags/:slug/
 publications: /parutions/:slug/
+concerned: /parutions/personnes-concernees/:slug/
