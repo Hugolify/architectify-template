@@ -1,7 +1,7 @@
 ---
 isIndex: true
-title: Équipe
-url: /equipe
+title: Team
+url: team
 hero:
   surtitle: Vestibulum consequat
   title: Quisque ipsum nisi, tempor quis fermentum non, iaculis vel augue.

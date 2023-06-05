@@ -1,7 +1,7 @@
 ---
 isIndex: true
-title: Parutions
-url: parutions
+title: Publications
+url: publications
 hero:
   surtitle: Vestibulum consequat
   title: Praesent tempor

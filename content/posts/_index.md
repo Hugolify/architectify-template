@@ -1,7 +1,7 @@
 ---
 isIndex: true
-title: Actualités
-url: actualites
+title: News
+url: news
 hero:
   surtitle: Vestibulum consequat
   title: Suspendisse sed dui sollicitudin

@@ -1,7 +1,7 @@
 ---
 isIndex: true
-title: Projets
-url: projets
+title: Projects
+url: projects
 hero:
   surtitle: Vestibulum consequat
   title: Praesent tempor
