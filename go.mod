@@ -2,11 +2,9 @@ module github.com/hugolify/architectify-template
 
 go 1.19
 
-replace github.com/hugolify/architectify-example-site => /Users/sebastienmoulene/Dev/architectify-example-site
-
 require (
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
-	github.com/hugolify/architectify-example-site v1.0.7 // indirect
+	github.com/hugolify/architectify-example-site v1.0.8 // indirect
 	github.com/hugolify/architectify-netlify-cms v1.0.1 // indirect
 	github.com/hugolify/architectify-theme v1.0.3 // indirect
 	github.com/hugolify/hugolify-netlify-cms v1.2.2 // indirect

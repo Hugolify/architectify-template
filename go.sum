@@ -1,7 +1,7 @@
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 h1:GZxx4Hc+yb0/t3/rau1j8XlAxLE4CyXns2fqQbyqWfs=
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000/go.mod h1:mFberT6ZtcchrsDtfvJM7aAH2bDKLdOnruUHl0hlapI=
-github.com/hugolify/architectify-example-site v1.0.7 h1:hCSN+Rbw4iMJuTzxvdp4KEDYpp8q8XAWfxaT1/3PZsE=
-github.com/hugolify/architectify-example-site v1.0.7/go.mod h1:u4KcZm3c+Y/iHwqwGvzBdcskDY/3hTM6e3TaYaQ+xFo=
+github.com/hugolify/architectify-example-site v1.0.8 h1:kFNTY7UqiDwEsmyPCNRuiUfNgsWmmQtNcVNW/jbWHjE=
+github.com/hugolify/architectify-example-site v1.0.8/go.mod h1:u4KcZm3c+Y/iHwqwGvzBdcskDY/3hTM6e3TaYaQ+xFo=
 github.com/hugolify/architectify-netlify-cms v1.0.1 h1:cmsYNLh1vJmUFokT/5VoRLX/N1r93HmD0uwAXj6/7uA=
 github.com/hugolify/architectify-netlify-cms v1.0.1/go.mod h1:A3eg+p8BHqyThwE0zEywjfGI/HdGqndOy69cTcb+U8A=
 github.com/hugolify/architectify-theme v1.0.3 h1:F4YIEtEmtg1BVKvr2o/7yPxOHeHi5PmYbZ2+8o/AYug=
