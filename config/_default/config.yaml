@@ -1,6 +1,6 @@
 ## LANGUAGE
-defaultContentLanguage: fr
-languageCode: fr
+defaultContentLanguage: en
+languageCode: en
 
 ## ADVANCED
 build:
@@ -13,3 +13,4 @@ markup:
     ordered: true
 paginate: 18
 removePathAccents: true
+disableHugoGeneratorInject: true

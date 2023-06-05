@@ -1,5 +1,5 @@
 imports:
-- path: github.com/hugolify/architectify-demo-1
+- path: github.com/hugolify/hugolify-theme-1
 - path: github.com/hugolify/architectify-example-site
 - path: github.com/hugolify/architectify-theme
 - path: github.com/hugolify/architectify-netlify-cms
