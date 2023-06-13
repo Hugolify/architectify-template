@@ -21,13 +21,14 @@ Hugo sections available in theme and admin
 
 * pages
 * persons
-* expertises
 * offices
-* statutes
 * posts
   * authors (taxonomy)
   * categories (taxonomy)
   * tags (taxonomy)
+* projects
+  * tags (taxonomy)
+  * types (taxonomy)
 * publications
   * concerned (taxonomy)
 
