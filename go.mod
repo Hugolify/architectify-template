@@ -8,10 +8,10 @@ require (
 	github.com/hugolify/architectify-netlify-cms v1.0.2 // indirect
 	github.com/hugolify/architectify-theme v1.0.3 // indirect
 	github.com/hugolify/hugolify-netlify-cms v1.2.2 // indirect
-	github.com/hugolify/hugolify-theme v1.5.1 // indirect
+	github.com/hugolify/hugolify-theme v1.5.7 // indirect
 	github.com/hugolify/hugolify-theme-1 v1.0.6 // indirect
-	github.com/hugolify/hugolify-theme-offices v1.0.15 // indirect
-	github.com/hugolify/hugolify-theme-persons v1.1.0 // indirect
+	github.com/hugolify/hugolify-theme-offices v1.0.16 // indirect
+	github.com/hugolify/hugolify-theme-persons v1.1.3 // indirect
 	github.com/hugolify/hugolify-theme-persons-offices v1.0.0 // indirect
 	github.com/hugolify/hugolify-theme-posts v1.1.13 // indirect
 	github.com/hugolify/hugolify-theme-posts-authors v1.0.10 // indirect
