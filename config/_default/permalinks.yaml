@@ -1,7 +1,8 @@
 _merge: deep
-# offices: /cabinets/:slug/
+places: /offices/:slug/
+# places: /cabinets/:slug/
 # persons: /equipe/:slug/
-# persons_offices: /equipe/cabinets/:slug/
+# persons_places: /equipe/cabinets/:slug/
 # posts: /actualites/:year-:month-:day-:slug/
 # authors: /actualites/authors/:slug/
 # categories: /actualites/categories/:slug/

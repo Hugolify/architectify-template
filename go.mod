@@ -4,15 +4,15 @@ go 1.19
 
 require (
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
-	github.com/hugolify/architectify-example-site v1.0.10 // indirect
-	github.com/hugolify/architectify-netlify-cms v1.0.2 // indirect
-	github.com/hugolify/architectify-theme v1.0.3 // indirect
-	github.com/hugolify/hugolify-netlify-cms v1.2.7 // indirect
-	github.com/hugolify/hugolify-theme v1.6.13 // indirect
-	github.com/hugolify/hugolify-theme-1 v1.0.6 // indirect
-	github.com/hugolify/hugolify-theme-offices v1.0.16 // indirect
-	github.com/hugolify/hugolify-theme-persons v1.1.4 // indirect
-	github.com/hugolify/hugolify-theme-persons-offices v1.0.0 // indirect
+	github.com/hugolify/architectify-example-site v1.0.12 // indirect
+	github.com/hugolify/architectify-netlify-cms v1.1.0 // indirect
+	github.com/hugolify/architectify-theme v1.1.1 // indirect
+	github.com/hugolify/hugolify-netlify-cms v1.3.0 // indirect
+	github.com/hugolify/hugolify-theme v1.7.0 // indirect
+	github.com/hugolify/hugolify-theme-1 v1.0.7 // indirect
+	github.com/hugolify/hugolify-theme-persons v1.2.0 // indirect
+	github.com/hugolify/hugolify-theme-persons-places v1.1.1 // indirect
+	github.com/hugolify/hugolify-theme-places v1.1.0 // indirect
 	github.com/hugolify/hugolify-theme-posts v1.1.14 // indirect
 	github.com/hugolify/hugolify-theme-posts-authors v1.0.10 // indirect
 	github.com/hugolify/hugolify-theme-posts-categories v1.0.9 // indirect
@@ -22,5 +22,5 @@ require (
 	github.com/hugolify/hugolify-theme-projects-types v1.0.10 // indirect
 	github.com/hugolify/hugolify-theme-publications v1.1.17 // indirect
 	github.com/hugolify/hugolify-theme-publications-concerned v1.0.11 // indirect
-	github.com/twbs/bootstrap v5.3.0+incompatible // indirect
+	github.com/twbs/bootstrap v5.3.1+incompatible // indirect
 )
