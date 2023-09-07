@@ -21,7 +21,7 @@ Hugo sections available in theme and admin
 
 * pages
 * persons
-* offices
+* places
 * posts
   * authors (taxonomy)
   * categories (taxonomy)
@@ -30,6 +30,7 @@ Hugo sections available in theme and admin
   * tags (taxonomy)
   * types (taxonomy)
 * publications
+  * categories (taxonomy)
   * concerned (taxonomy)
 
 ## Documentation
