@@ -8,8 +8,8 @@ github.com/hugolify/architectify-theme v1.1.1 h1:yc+hrPHvkh+t9lFQoQ731bJqB8Q2Yp7
 github.com/hugolify/architectify-theme v1.1.1/go.mod h1:yeu8+2/HrmM2ORv3M5PLpBQzcItjy9C5eUHsL/F82qA=
 github.com/hugolify/hugolify-netlify-cms v1.6.1 h1:oe/5fWz5zPXnqF9vRJgQ2JKKKi0Vv4CFskUCwYuLaWQ=
 github.com/hugolify/hugolify-netlify-cms v1.6.1/go.mod h1:Q7HNXBxIatKmA+mlG+3HbWUYApZnftOwFz6kevyg/HU=
-github.com/hugolify/hugolify-theme v1.7.27 h1:PRvAW52tBfuFZCymDAYzoIdKtbtF+Zu78J/6i/nPdcI=
-github.com/hugolify/hugolify-theme v1.7.27/go.mod h1:yDbH6g0BJAqjueFrZ13u2lC9gWsYuKDFjQirn805zvo=
+github.com/hugolify/hugolify-theme v1.7.28 h1:qCuqYeFl+DRUI1oDbn+TGc/X6YlPYybzi1NYUXWR9xw=
+github.com/hugolify/hugolify-theme v1.7.28/go.mod h1:yDbH6g0BJAqjueFrZ13u2lC9gWsYuKDFjQirn805zvo=
 github.com/hugolify/hugolify-theme-1 v1.0.8 h1:D0fy+EagYqeEa1IlzGS8WD1On4DoA4mbkKAqN2MoZSs=
 github.com/hugolify/hugolify-theme-1 v1.0.8/go.mod h1:3+mptV0E9LS+6BjiTtv7BHRvMeC06zQUwwu2pssfQ0Y=
 github.com/hugolify/hugolify-theme-persons v1.3.2 h1:73osw+tD6he9V9+ONitg1aXVRJ8RikFeVGZa1Q/XjMQ=
