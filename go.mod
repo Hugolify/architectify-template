@@ -7,10 +7,10 @@ require (
 	github.com/hugolify/architectify-example-site v1.0.12 // indirect
 	github.com/hugolify/architectify-netlify-cms v1.1.0 // indirect
 	github.com/hugolify/architectify-theme v1.1.1 // indirect
-	github.com/hugolify/hugolify-netlify-cms v1.8.1 // indirect
-	github.com/hugolify/hugolify-theme v1.7.35 // indirect
+	github.com/hugolify/hugolify-netlify-cms v1.8.2 // indirect
+	github.com/hugolify/hugolify-theme v1.7.37 // indirect
 	github.com/hugolify/hugolify-theme-1 v1.0.8 // indirect
-	github.com/hugolify/hugolify-theme-persons v1.3.4 // indirect
+	github.com/hugolify/hugolify-theme-persons v1.3.6 // indirect
 	github.com/hugolify/hugolify-theme-persons-places v1.1.2 // indirect
 	github.com/hugolify/hugolify-theme-places v1.1.2 // indirect
 	github.com/hugolify/hugolify-theme-posts v1.1.17 // indirect
